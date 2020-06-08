@@ -1,0 +1,82 @@
+.c2
+{
+    margin-left:20em;
+    margin-top:2em;
+}
+.c1
+{
+    border:2px solid black;
+height:6em;
+    border-radius:55px;
+     margin-top:0.5em;
+}
+.box{
+    display:grid;
+grid-template-columns: 45em 50em;
+grid-template-rows: auto;
+}
+.b
+{
+    
+    margin-left:5em;
+}
+.a
+{
+    border-right:2px solid black;
+}
+
+
+
+
+input
+{
+    width:40em;
+    border-radius: 55px;
+    height:3em;
+}
+.c7
+{
+    border:2px solid black;
+    margin-left:7em;
+    height:4em;
+    border-radius:10em;
+}
+.c8
+{
+    border:2px solid black;
+    margin-left:1em;
+height:3em;
+    margin-top:5px;
+}
+
+
+
+.c9
+{
+    border:2px solid black;
+    height:6em;
+    margin-left:5em;
+}
+
+.c10
+{
+    border:2px solid black;
+    height:3em;
+    margin-top:1em;
+    margin-left:3em;
+    
+}
+
+.c11
+{
+    margin-top:30em;
+    margin-left:5em;
+}   
+
+.col1
+
+
+
+
+
+
